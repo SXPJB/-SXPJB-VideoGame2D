@@ -1,0 +1,2888 @@
+fileFormatVersion: 2
+guid: dde357fef57009d469eb3c60057e4c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3456880184552510253
+    second: NicePng_megaman-sprite-png_2222069_0
+  - first:
+      213: -4708726598189469035
+    second: NicePng_megaman-sprite-png_2222069_1
+  - first:
+      213: 7299374081541777003
+    second: NicePng_megaman-sprite-png_2222069_2
+  - first:
+      213: 8579074302654385301
+    second: NicePng_megaman-sprite-png_2222069_3
+  - first:
+      213: -3860061379902513317
+    second: NicePng_megaman-sprite-png_2222069_4
+  - first:
+      213: -2745748110414981846
+    second: NicePng_megaman-sprite-png_2222069_5
+  - first:
+      213: -8006149630317589602
+    second: NicePng_megaman-sprite-png_2222069_6
+  - first:
+      213: 7306123762877430358
+    second: NicePng_megaman-sprite-png_2222069_7
+  - first:
+      213: 8427155264378053745
+    second: NicePng_megaman-sprite-png_2222069_8
+  - first:
+      213: -3737110643234158424
+    second: NicePng_megaman-sprite-png_2222069_9
+  - first:
+      213: 6520454671731466668
+    second: NicePng_megaman-sprite-png_2222069_10
+  - first:
+      213: -7285705454669048040
+    second: NicePng_megaman-sprite-png_2222069_11
+  - first:
+      213: 3646601055165138020
+    second: NicePng_megaman-sprite-png_2222069_12
+  - first:
+      213: -7853078599428048353
+    second: NicePng_megaman-sprite-png_2222069_13
+  - first:
+      213: 5705665448238061856
+    second: NicePng_megaman-sprite-png_2222069_14
+  - first:
+      213: 9009685791343035310
+    second: NicePng_megaman-sprite-png_2222069_15
+  - first:
+      213: 5343064829922959968
+    second: NicePng_megaman-sprite-png_2222069_16
+  - first:
+      213: 9042757346472543715
+    second: NicePng_megaman-sprite-png_2222069_17
+  - first:
+      213: -4631865354076416329
+    second: NicePng_megaman-sprite-png_2222069_18
+  - first:
+      213: -7483733696415133375
+    second: NicePng_megaman-sprite-png_2222069_19
+  - first:
+      213: 5331641581462997
+    second: NicePng_megaman-sprite-png_2222069_20
+  - first:
+      213: -3951796610140238168
+    second: NicePng_megaman-sprite-png_2222069_21
+  - first:
+      213: 4080472816347457037
+    second: NicePng_megaman-sprite-png_2222069_22
+  - first:
+      213: -4122004161792958982
+    second: NicePng_megaman-sprite-png_2222069_23
+  - first:
+      213: -5491052087639127488
+    second: NicePng_megaman-sprite-png_2222069_24
+  - first:
+      213: 1025172850423204561
+    second: NicePng_megaman-sprite-png_2222069_25
+  - first:
+      213: -2437821128705056410
+    second: NicePng_megaman-sprite-png_2222069_26
+  - first:
+      213: -7357609044368152588
+    second: NicePng_megaman-sprite-png_2222069_27
+  - first:
+      213: 1518434600177674103
+    second: NicePng_megaman-sprite-png_2222069_28
+  - first:
+      213: -2879476833423570159
+    second: NicePng_megaman-sprite-png_2222069_29
+  - first:
+      213: 2546732296251654280
+    second: NicePng_megaman-sprite-png_2222069_30
+  - first:
+      213: 3959256835314769166
+    second: NicePng_megaman-sprite-png_2222069_31
+  - first:
+      213: -5932468170013773443
+    second: NicePng_megaman-sprite-png_2222069_32
+  - first:
+      213: 7093653177519570736
+    second: NicePng_megaman-sprite-png_2222069_33
+  - first:
+      213: 331022666708934169
+    second: NicePng_megaman-sprite-png_2222069_34
+  - first:
+      213: -3383732485176450382
+    second: NicePng_megaman-sprite-png_2222069_35
+  - first:
+      213: 8871044176139180079
+    second: NicePng_megaman-sprite-png_2222069_36
+  - first:
+      213: 8117868169101489621
+    second: NicePng_megaman-sprite-png_2222069_37
+  - first:
+      213: -3741643721590805871
+    second: NicePng_megaman-sprite-png_2222069_38
+  - first:
+      213: 394809206943985867
+    second: NicePng_megaman-sprite-png_2222069_39
+  - first:
+      213: -1242943636876747267
+    second: NicePng_megaman-sprite-png_2222069_40
+  - first:
+      213: 8427147625925991311
+    second: NicePng_megaman-sprite-png_2222069_41
+  - first:
+      213: -8778488885788006568
+    second: NicePng_megaman-sprite-png_2222069_42
+  - first:
+      213: 8848583023795906844
+    second: NicePng_megaman-sprite-png_2222069_43
+  - first:
+      213: 167739344181174825
+    second: NicePng_megaman-sprite-png_2222069_44
+  - first:
+      213: 4539194046206536225
+    second: NicePng_megaman-sprite-png_2222069_45
+  - first:
+      213: 6293642485020314142
+    second: NicePng_megaman-sprite-png_2222069_46
+  - first:
+      213: -5578412167269251552
+    second: NicePng_megaman-sprite-png_2222069_47
+  - first:
+      213: -2272435870167071085
+    second: NicePng_megaman-sprite-png_2222069_48
+  - first:
+      213: 4709026794776094981
+    second: NicePng_megaman-sprite-png_2222069_49
+  - first:
+      213: 307135205302662566
+    second: NicePng_megaman-sprite-png_2222069_50
+  - first:
+      213: -1273133825062566858
+    second: NicePng_megaman-sprite-png_2222069_51
+  - first:
+      213: 2049381084316495981
+    second: NicePng_megaman-sprite-png_2222069_52
+  - first:
+      213: -3564993664966909607
+    second: NicePng_megaman-sprite-png_2222069_53
+  - first:
+      213: -3303395311231633596
+    second: NicePng_megaman-sprite-png_2222069_54
+  - first:
+      213: -9124819355610474922
+    second: NicePng_megaman-sprite-png_2222069_55
+  - first:
+      213: 3187793607982536357
+    second: NicePng_megaman-sprite-png_2222069_56
+  - first:
+      213: 2298739541363245306
+    second: NicePng_megaman-sprite-png_2222069_57
+  - first:
+      213: 3719175389563352945
+    second: NicePng_megaman-sprite-png_2222069_58
+  - first:
+      213: -6937807368771371692
+    second: NicePng_megaman-sprite-png_2222069_59
+  - first:
+      213: -5765222627200884849
+    second: NicePng_megaman-sprite-png_2222069_60
+  - first:
+      213: 5592545446169262431
+    second: NicePng_megaman-sprite-png_2222069_61
+  - first:
+      213: 6946188858211547172
+    second: NicePng_megaman-sprite-png_2222069_62
+  - first:
+      213: 2305310725952861252
+    second: NicePng_megaman-sprite-png_2222069_63
+  - first:
+      213: 8211891963576556996
+    second: NicePng_megaman-sprite-png_2222069_64
+  - first:
+      213: 8450819298576773545
+    second: NicePng_megaman-sprite-png_2222069_65
+  - first:
+      213: 2538261986026112565
+    second: NicePng_megaman-sprite-png_2222069_66
+  - first:
+      213: 2002741651463690974
+    second: NicePng_megaman-sprite-png_2222069_67
+  - first:
+      213: 1142147689231927972
+    second: NicePng_megaman-sprite-png_2222069_68
+  - first:
+      213: -5361540671972930595
+    second: NicePng_megaman-sprite-png_2222069_69
+  - first:
+      213: 3111761481511721755
+    second: NicePng_megaman-sprite-png_2222069_70
+  - first:
+      213: -7369685365238925957
+    second: NicePng_megaman-sprite-png_2222069_71
+  - first:
+      213: -2281296188322648678
+    second: NicePng_megaman-sprite-png_2222069_72
+  - first:
+      213: -7612403317894136697
+    second: NicePng_megaman-sprite-png_2222069_73
+  - first:
+      213: 4690302147299858681
+    second: NicePng_megaman-sprite-png_2222069_74
+  - first:
+      213: -4726510956233588654
+    second: NicePng_megaman-sprite-png_2222069_75
+  - first:
+      213: -4503596315919927970
+    second: NicePng_megaman-sprite-png_2222069_76
+  - first:
+      213: 6242377335021721197
+    second: NicePng_megaman-sprite-png_2222069_77
+  - first:
+      213: -7024374061422359964
+    second: NicePng_megaman-sprite-png_2222069_78
+  - first:
+      213: -5138706542754002133
+    second: NicePng_megaman-sprite-png_2222069_79
+  - first:
+      213: -500530761346877997
+    second: NicePng_megaman-sprite-png_2222069_80
+  - first:
+      213: -1788639164253015635
+    second: NicePng_megaman-sprite-png_2222069_81
+  - first:
+      213: 1534647653390725112
+    second: NicePng_megaman-sprite-png_2222069_82
+  - first:
+      213: 5012174391394665067
+    second: NicePng_megaman-sprite-png_2222069_83
+  - first:
+      213: 1939149263649468807
+    second: NicePng_megaman-sprite-png_2222069_84
+  - first:
+      213: 3751891282764720161
+    second: NicePng_megaman-sprite-png_2222069_85
+  - first:
+      213: -7568962432181988473
+    second: NicePng_megaman-sprite-png_2222069_86
+  - first:
+      213: -6850255997121748650
+    second: NicePng_megaman-sprite-png_2222069_87
+  - first:
+      213: -7971160502696116074
+    second: NicePng_megaman-sprite-png_2222069_88
+  - first:
+      213: -2912950856566731333
+    second: NicePng_megaman-sprite-png_2222069_89
+  - first:
+      213: 675664257479129927
+    second: NicePng_megaman-sprite-png_2222069_90
+  - first:
+      213: 7228363540803737117
+    second: NicePng_megaman-sprite-png_2222069_91
+  - first:
+      213: 8698526709010413901
+    second: NicePng_megaman-sprite-png_2222069_92
+  - first:
+      213: 2262479919725835820
+    second: NicePng_megaman-sprite-png_2222069_93
+  - first:
+      213: -1369185394343176972
+    second: NicePng_megaman-sprite-png_2222069_94
+  - first:
+      213: 543358780194041290
+    second: NicePng_megaman-sprite-png_2222069_95
+  - first:
+      213: 4030093546645614141
+    second: NicePng_megaman-sprite-png_2222069_96
+  - first:
+      213: 7304030160545792547
+    second: NicePng_megaman-sprite-png_2222069_97
+  - first:
+      213: 5956482020797347007
+    second: NicePng_megaman-sprite-png_2222069_98
+  - first:
+      213: -8839073224454130426
+    second: NicePng_megaman-sprite-png_2222069_99
+  - first:
+      213: -2368133801826461670
+    second: NicePng_megaman-sprite-png_2222069_100
+  - first:
+      213: 6321952288291775645
+    second: NicePng_megaman-sprite-png_2222069_101
+  - first:
+      213: 5218686714867476787
+    second: NicePng_megaman-sprite-png_2222069_102
+  - first:
+      213: 5661605095003147246
+    second: NicePng_megaman-sprite-png_2222069_103
+  - first:
+      213: -6051109672779476836
+    second: NicePng_megaman-sprite-png_2222069_104
+  - first:
+      213: -889880525927739053
+    second: NicePng_megaman-sprite-png_2222069_105
+  - first:
+      213: 142266304165533968
+    second: NicePng_megaman-sprite-png_2222069_106
+  - first:
+      213: 2394318239599581442
+    second: NicePng_megaman-sprite-png_2222069_107
+  - first:
+      213: -423395941209199771
+    second: NicePng_megaman-sprite-png_2222069_108
+  - first:
+      213: 311572374032839294
+    second: NicePng_megaman-sprite-png_2222069_109
+  - first:
+      213: 1854444714855056393
+    second: NicePng_megaman-sprite-png_2222069_110
+  - first:
+      213: 8085990475450111734
+    second: NicePng_megaman-sprite-png_2222069_111
+  - first:
+      213: -2895274980303679524
+    second: NicePng_megaman-sprite-png_2222069_112
+  - first:
+      213: 298354019005305612
+    second: NicePng_megaman-sprite-png_2222069_113
+  - first:
+      213: -8538738625607628774
+    second: NicePng_megaman-sprite-png_2222069_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 811
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d657663e49ff20800000000000000
+      internalID: 3456880184552510253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 815
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bb7a5b1e37aeb0800000000000000
+      internalID: -4708726598189469035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 819
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66adfcad069c4560800000000000000
+      internalID: 7299374081541777003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 822
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8567df9efe0770800000000000000
+      internalID: 8579074302654385301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 826
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fd4bf50ae4e6ac0800000000000000
+      internalID: -3860061379902513317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 818
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d30424a425e9d0800000000000000
+      internalID: -2745748110414981846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 815
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8b42645174e090800000000000000
+      internalID: -8006149630317589602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 815
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a79535ad0946560800000000000000
+      internalID: 7306123762877430358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1742150601543f470800000000000000
+      internalID: 8427155264378053745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a842b78bad132cc0800000000000000
+      internalID: -3737110643234158424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca127922afe4d7a50800000000000000
+      internalID: 6520454671731466668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81753548d79f3ea90800000000000000
+      internalID: -7285705454669048040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464cea2d6545b9230800000000000000
+      internalID: 3646601055165138020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a7ed70f92440390800000000000000
+      internalID: -7853078599428048353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 765
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291379ce789e2f40800000000000000
+      internalID: 5705665448238061856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 765
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c2eaed75d80d70800000000000000
+      internalID: 9009685791343035310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e07f6721662a40800000000000000
+      internalID: 5343064829922959968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 716
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5cc8265e35e7d70800000000000000
+      internalID: 9042757346472543715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 716
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b616da400f48bfb0800000000000000
+      internalID: -4631865354076416329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1411e878adf642890800000000000000
+      internalID: -7483733696415133375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5688a8911f21000800000000000000
+      internalID: 5331641581462997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 716
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8ffbabe56829c0800000000000000
+      internalID: -3951796610140238168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 716
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06270e3860c0a830800000000000000
+      internalID: 4080472816347457037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 716
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd16addd03bbc6c0800000000000000
+      internalID: -4122004161792958982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 666
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4a19183ddbc3b0800000000000000
+      internalID: -5491052087639127488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 666
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da89de96452a3e00800000000000000
+      internalID: 1025172850423204561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 664
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e79d799e1b2ed0800000000000000
+      internalID: -2437821128705056410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 656
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72c327e8584e990800000000000000
+      internalID: -7357609044368152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 661
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a04e4930921510800000000000000
+      internalID: 1518434600177674103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 661
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b42dc731b0a08d0800000000000000
+      internalID: -2879476833423570159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 669
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804810c78fc75320800000000000000
+      internalID: 2546732296251654280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 617
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d597b5d1b12f630800000000000000
+      internalID: 3959256835314769166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 617
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71740581a3abada0800000000000000
+      internalID: -5932468170013773443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 617
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fffdd2bf7b17260800000000000000
+      internalID: 7093653177519570736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 617
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ed9cd8c57089400800000000000000
+      internalID: 331022666708934169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 617
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ab168b319a01d0800000000000000
+      internalID: -3383732485176450382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 617
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d2996da74c1b70800000000000000
+      internalID: 8871044176139180079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5beb8e61678a070800000000000000
+      internalID: 8117868169101489621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 618
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a628afbd2031cc0800000000000000
+      internalID: -3741643721590805871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 567
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc033f5c1e4aa7500800000000000000
+      internalID: 394809206943985867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 567
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1120095d20cee0800000000000000
+      internalID: -1242943636876747267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 568
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b5819ed1e33f470800000000000000
+      internalID: 8427147625925991311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 567
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85724e96eda8c2680800000000000000
+      internalID: -8778488885788006568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 567
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1928ead06b7cca70800000000000000
+      internalID: 8848583023795906844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 567
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922a6c87b0ee35200800000000000000
+      internalID: 167739344181174825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 517
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a65b27fe47efe30800000000000000
+      internalID: 4539194046206536225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 517
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a41f6be72875750800000000000000
+      internalID: 6293642485020314142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 517
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026033780bf7592b0800000000000000
+      internalID: -5578412167269251552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 518
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39606dfad9fa670e0800000000000000
+      internalID: -2272435870167071085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 518
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ec6c9be2d95140800000000000000
+      internalID: 4709026794776094981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 517
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f41a87d9234400800000000000000
+      internalID: 307135205302662566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 517
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348c9d088be45ee0800000000000000
+      internalID: -1273133825062566858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 518
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f614fc3dd07c10800000000000000
+      internalID: 2049381084316495981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951212d5629968ec0800000000000000
+      internalID: -3564993664966909607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 463
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f851777bf722d0800000000000000
+      internalID: -3303395311231633596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 463
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6569a3534212e5180800000000000000
+      internalID: -9124819355610474922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65f0595615d3c20800000000000000
+      internalID: 3187793607982536357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 466
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c9120f63c6ef10800000000000000
+      internalID: 2298739541363245306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777c40df4a2d9330800000000000000
+      internalID: 3719175389563352945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 459
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d7b48c4f4f7bf90800000000000000
+      internalID: -6937807368771371692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_60
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 459
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f95a6e090ddffa0800000000000000
+      internalID: -5765222627200884849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 415
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b525e376bc9d40800000000000000
+      internalID: 5592545446169262431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 407
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b97cc6f1d56060800000000000000
+      internalID: 6946188858211547172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 405
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444715524eb1eff10800000000000000
+      internalID: 2305310725952861252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 402
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9dde7b3086f170800000000000000
+      internalID: 8211891963576556996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 406
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13fa0b067574570800000000000000
+      internalID: 8450819298576773545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 414
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c6f7f3d7b93320800000000000000
+      internalID: 2538261986026112565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_67
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 417
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5f58cbea2bcb10800000000000000
+      internalID: 2002741651463690974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aac3b1a549b9df00800000000000000
+      internalID: 1142147689231927972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 347
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8e3e5a2bf795b0800000000000000
+      internalID: -5361540671972930595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_70
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 344
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bdf33a4923f2b20800000000000000
+      internalID: 3111761481511721755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 342
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f982e43e99b990800000000000000
+      internalID: -7369685365238925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 347
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d639b14353750e0800000000000000
+      internalID: -2281296188322648678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_73
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 355
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3aedb38f4b5690800000000000000
+      internalID: -7612403317894136697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_74
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 357
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85f03e3fc471140800000000000000
+      internalID: 4690302147299858681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25084b2d35f086eb0800000000000000
+      internalID: -4726510956233588654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b5d103030081c0800000000000000
+      internalID: -4503596315919927970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665be7dc1161a650800000000000000
+      internalID: 6242377335021721197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 293
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac3730209648e90800000000000000
+      internalID: -7024374061422359964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 243
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0c2a10a5afa8b0800000000000000
+      internalID: -5138706542754002133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 242
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d573caace1cd09f0800000000000000
+      internalID: -500530761346877997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f85f182a7d27e0800000000000000
+      internalID: -1788639164253015635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_82
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffadbbe8e92c4510800000000000000
+      internalID: 1534647653390725112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628367ad02de8540800000000000000
+      internalID: 5012174391394665067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78179423bfd39ea10800000000000000
+      internalID: 1939149263649468807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_85
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 244
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12863194e35611430800000000000000
+      internalID: 3751891282764720161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783148f15c4a5f690800000000000000
+      internalID: -7568962432181988473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 193
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a11ff6700fe0a0800000000000000
+      internalID: -6850255997121748650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 194
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908c2d71cfb06190800000000000000
+      internalID: -7971160502696116074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_89
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 193
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8b2221ae1397d0800000000000000
+      internalID: -2912950856566731333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb876ff01706900800000000000000
+      internalID: 675664257479129927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ddf4c75e405460800000000000000
+      internalID: 7228363540803737117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4930df74ff57b870800000000000000
+      internalID: 8698526709010413901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2676b6ff71f56f10800000000000000
+      internalID: 2262479919725835820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4958a532daffce0800000000000000
+      internalID: -1369185394343176972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 145
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2e078ee56a8700800000000000000
+      internalID: 543358780194041290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 146
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ee7637ab4cde730800000000000000
+      internalID: 4030093546645614141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322421c8bb02d5560800000000000000
+      internalID: 7304030160545792547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 147
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb470a0d6dca9a250800000000000000
+      internalID: 5956482020797347007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605beb8dbbd455580800000000000000
+      internalID: -8839073224454130426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d989aad2b22fd0800000000000000
+      internalID: -2368133801826461670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94699e6c161cb750800000000000000
+      internalID: 6321952288291775645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_102
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e9b9daef7c6840800000000000000
+      internalID: 5218686714867476787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_103
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb443266df029e40800000000000000
+      internalID: 5661605095003147246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 86
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909c0110d3260ca0800000000000000
+      internalID: -6051109672779476836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_105
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 84
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511a8f506286a3f0800000000000000
+      internalID: -889880525927739053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_106
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 82
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195b4b237e69f100800000000000000
+      internalID: 142266304165533968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2095296d0c35a3120800000000000000
+      internalID: 2394318239599581442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b22ec72abcf1af0800000000000000
+      internalID: -423395941209199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_109
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e727d046c6de25400800000000000000
+      internalID: 311572374032839294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904498494af4cb910800000000000000
+      internalID: 1854444714855056393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6556afe75373070800000000000000
+      internalID: 8085990475450111734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_112
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf4ce7cebae1d7d0800000000000000
+      internalID: -2895274980303679524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_113
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c031f184667f32400800000000000000
+      internalID: 298354019005305612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_megaman-sprite-png_2222069_114
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1800cec57e408980800000000000000
+      internalID: -8538738625607628774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
